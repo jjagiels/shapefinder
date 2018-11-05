@@ -1,0 +1,8 @@
+To run Shapefinder:
+
+Run 'sudo apt-get update'
+Then run 'sudo apt-get install libopencv-*'
+
+Once openCV is installed on your cloud9 if it wasn't already, run make all in the terminal
+To run the program now, you will use ./shapefinder with the first flag being your input file, then in any order your color, shape, and output file
+as long as you use the appropriate flags, -s/--shape, -c/--color, -o.
